@@ -27,4 +27,4 @@ variable "PASSWORD" {
   type = "string"
   default= "password@password"
 }
-~
+
